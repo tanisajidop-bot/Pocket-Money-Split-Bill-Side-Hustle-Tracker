@@ -1,0 +1,6 @@
+{
+  "name": "HustleSplit",
+  "description": "Pocket money, split bill, and side-hustle tracker for students and young creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
